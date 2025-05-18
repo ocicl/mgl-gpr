@@ -1,0 +1,11 @@
+* mgl-gpr
+
+MGL-GPR is a library of evolutionary algorithms such as Genetic
+Programming (evolving typed expressions from a set of operators and
+constants) and Differential Evolution.
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/melisgl/mgl-gpr.git |
+| commit  | e2aef56                                    |
+| systems | mgl-gpr                                    |
+|---------+--------------------------------------------|
