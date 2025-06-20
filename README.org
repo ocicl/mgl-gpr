@@ -6,6 +6,6 @@ constants) and Differential Evolution.
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/melisgl/mgl-gpr.git |
-| commit  | e2aef56                                    |
+| commit  | 32bc294                                    |
 | systems | mgl-gpr                                    |
 |---------+--------------------------------------------|
